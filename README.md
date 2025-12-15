@@ -62,6 +62,8 @@ Este repositório reúne projetos práticos desenvolvidos durante a **Imersão D
 ```
 data-science-alura-immersion/
 │
+├── images
+│   └── Sample images and graphics files (png)
 ├── Imersão_Alura_DS_A1.ipynb
 ├── Imersão_Alura_DS_A2.ipynb
 ├── Imersão_Alura_DS_A3.ipynb
@@ -84,15 +86,51 @@ data-science-alura-immersion/
 
 ---
 
+App Features | Funcionalidades da Aplicação
+
+**EN 🇬🇧**
+  
+  End-to-end Data Science workflow developed during the Alura Data Science Immersion
+  
+  Exploratory Data Analysis (EDA) with structured datasets
+  
+  Data cleaning, transformation, and preprocessing
+  
+  Statistical analysis and descriptive metrics
+  
+  Data visualization to identify patterns and trends
+  
+  Use of Python libraries for data manipulation and analysis
+  
+  Jupyter Notebook–based experimentation and documentation
+  
+  Reproducible and portfolio-oriented project structure
+
+**PT 🇧🇷 / 🇵🇹**
+
+  Fluxo completo de Data Science desenvolvido durante a Imersão de Data Science da Alura
+  
+  Análise Exploratória de Dados (EDA) com datasets estruturados
+  
+  Limpeza, transformação e preparação de dados
+  
+  Análise estatística e métricas descritivas
+  
+  Visualização de dados para identificação de padrões e tendências
+  
+  Uso de bibliotecas Python para manipulação e análise de dados
+  
+  Experimentação e documentação via Jupyter Notebooks
+  
+  Estrutura reprodutível e orientada a portfólio
+
 ## ▶️ How to Run | Como Executar
 
 **EN**
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/data-science-alura-immersion.git
-```
+  - git clone: https://github.com/ezequielcabeja/data-science-alura-immersion.git
+  - Extract the .zip file and enter the directory.
 
 2. Navigate to the project folder:
 
@@ -133,11 +171,10 @@ code data-science-alura-immersion
 
 **PT**
 
-1. Clone o repositório:
 
-```bash
-git clone https://github.com/SEU_USUARIO/data-science-alura-immersion.git
-```
+1. Clone o repositório:
+ - git clone https://github.com/ezequielcabeja/data-science-alura-immersion.git
+ - Extraia o .zip e entre no diretório
 
 2. Acesse a pasta do projeto:
 
@@ -232,8 +269,8 @@ Este boxplot compara a distribuição dos salários entre os diferentes níveis 
 ## 👤 Author | Autor
 
 Developed by / Desenvolvido por:
-**Ezequel Tchimbaya Cachapeu Paulo**
 
+**- [Ezequiel Tchimbaya Cachapeu Paulo](https://github.com/ezequielcabeja)**
 ---
 
 ## License | Licença
@@ -247,4 +284,5 @@ Este projeto é destinado a **fins educacionais e de portfólio**.
 ---
 
 ⭐ If this repository helped you, consider giving it a star!
+
 ⭐ Se este repositório te ajudou, considera deixar uma estrela!
