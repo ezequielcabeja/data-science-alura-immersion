@@ -190,6 +190,7 @@ This bar chart shows the average annual salary by seniority level. The results h
 
 PT 🇧🇷 / 🇵🇹
 Este gráfico de barras apresenta o salário médio anual por nível de senioridade. Os dados evidenciam uma progressão clara de remuneração à medida que a senioridade aumenta, com cargos executivos recebendo salários significativamente mais elevados em comparação aos níveis júnior. A visualização demonstra como experiência e responsabilidade impactam diretamente os ganhos no mercado de dados.
+
 ![Visualization Description](images/avg_salary_by_seniority.png.png)
 
 2️⃣ Overall Salary Distribution | Distribuição Geral dos Salários
@@ -199,6 +200,7 @@ This histogram displays the overall distribution of annual salaries in the datas
 
 PT 🇧🇷 / 🇵🇹
 Este histograma mostra a distribuição geral dos salários anuais presentes no dataset. A distribuição é assimétrica à direita, com a maioria dos profissionais concentrada em uma faixa salarial intermediária, enquanto um número menor de salários elevados forma a cauda superior. Esse comportamento é comum em dados salariais e evidencia a concentração de renda entre cargos específicos.
+
 ![Visualization Description](images/avg_salary_by_seniority.png.png)
 
 3️⃣ Salary Distribution by Seniority (Boxplot) | Distribuição Salarial por Senioridade
@@ -208,6 +210,7 @@ This boxplot compares the salary distributions across different seniority levels
 
 PT 🇧🇷 / 🇵🇹
 Este boxplot compara a distribuição dos salários entre os diferentes níveis de senioridade, evidenciando não apenas as diferenças de mediana, mas também a variabilidade e a presença de outliers. Níveis mais altos de senioridade apresentam maior dispersão salarial e valores extremos, indicando oportunidades de remuneração mais elevadas em cargos sênior e executivos.
+
 ![Visualization Description](images/salary_boxplot_by_level.png)
 
 
@@ -229,7 +232,7 @@ Este boxplot compara a distribuição dos salários entre os diferentes níveis 
 ## 👤 Author | Autor
 
 Developed by / Desenvolvido por:
-**[Ezequel Tchimbaya Cachapeu Paulo]**
+**Ezequel Tchimbaya Cachapeu Paulo**
 
 ---
 
